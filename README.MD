@@ -9,3 +9,9 @@ https://www.tinkercad.com/things/0CzRUhW5fT7-wiring-components/editel?lessonid=E
 
 
 ![image](https://user-images.githubusercontent.com/55125302/205467976-13fe6c56-c42b-4c0d-a4aa-1a9cee8efed0.png)
+
+![image](https://user-images.githubusercontent.com/55125302/205468903-0849c578-bb88-4b35-a379-2e8dd67a0776.png)
+
+led random lighting not valid but it work and led turn on
+
+![image](https://user-images.githubusercontent.com/55125302/205468946-f24c5a8d-1f1c-41e1-991b-a6afb9940c1a.png)
