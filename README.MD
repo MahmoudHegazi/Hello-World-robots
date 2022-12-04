@@ -1,3 +1,6 @@
+# What is this file
+(This hardware and software robot Information and usefull notes and tools and codes. may includes py files, c++, txt, images, videos, urls, code snippet
+
 # tinkercad (simulate)
 
  A web app to simulate components and connections, confirm their action, and avoid real harm to yourself and electronic components (as good as a simulator valid and good for make some js canvas web app
