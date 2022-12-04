@@ -15,3 +15,9 @@ https://www.tinkercad.com/things/0CzRUhW5fT7-wiring-components/editel?lessonid=E
 led random lighting not valid but it work and led turn on
 
 ![image](https://user-images.githubusercontent.com/55125302/205468946-f24c5a8d-1f1c-41e1-991b-a6afb9940c1a.png)
+
+
+
+----------
+
+led that turn on or of until curict end and  back on, the first button only can stop it until curict ends, and other buttons can turn it on, the app not validate the wiring but it make effect
