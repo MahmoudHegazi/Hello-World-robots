@@ -24,3 +24,8 @@ led that turn on or of until curict end and  back on, the first button only can 
 
 
 ![image](https://user-images.githubusercontent.com/55125302/205477561-dccdcf9a-05be-4dc8-ac87-d7827ef4d21f.png)
+
+
+##### rgb colors led with diffrent resistor and connections also top button for led and battery so button allow battry to provide power to the led or prevent that without effect curict on other one, 
+
+![image](https://user-images.githubusercontent.com/55125302/205480136-ec7ceb46-709c-4c88-801a-943d0d5fb400.png)
