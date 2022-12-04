@@ -21,3 +21,6 @@ led random lighting not valid but it work and led turn on
 ----------
 
 led that turn on or of until curict end and  back on, the first button only can stop it until curict ends, and other buttons can turn it on, the app not validate the wiring but it make effect
+
+
+![image](https://user-images.githubusercontent.com/55125302/205477561-dccdcf9a-05be-4dc8-ac87-d7827ef4d21f.png)
