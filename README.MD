@@ -29,3 +29,10 @@ led that turn on or of until curict end and  back on, the first button only can 
 ##### rgb colors led with diffrent resistor and connections also top button for led and battery so button allow battry to provide power to the led or prevent that without effect curict on other one, 
 
 ![image](https://user-images.githubusercontent.com/55125302/205480136-ec7ceb46-709c-4c88-801a-943d0d5fb400.png)
+
+
+--------------
+
+## this pure electonic curict make the motor work only while button button holded unlike normal it keep working and closed no it like fruit maxer function 
+
+![image](https://user-images.githubusercontent.com/55125302/205546968-d21c6740-44a1-41a8-9ced-6622daaafd57.png)
